@@ -1,0 +1,219 @@
+standard change number not available in EOD group chat
+
+sam citrix user id: User654321@2021
+}
+password:IndianCric@2025 == citrix  workspace pages ka access
+
+aws username==NARUNRAJ@ccp.capgemini.com or ccp\NARUNRAJ
+
+domain===CCP/NARUNRAJ
+
+ccp tool(CCP/NARUNRAJ) ==> bJ4lQJ+pjMa4Bg
+
+
+====================================
+particular server access karte time
+NA region server common creds
+ 
+ccpadmin
+CapComplete@1234!
+CapComplete1!123
+
+ccproot
+CapComplete@1234!
+
+
+
+========================================================================================
+(precheck and patch list) and postcheck ||   email text body contain (reply to the advance comm mail only)
+ 
+Hi Team,
+
+Please find attached/below the precheck report and patch list for the subjected activity.
+
+=========================================================================================
+
+For followup for approval email text body contain (follow up on advance email only===reply all)
+
+Hi Team,
+
+Kindly provide your approval for the below scheduled activity.
+
+or
+
+Kindly provide your approvals & let us know the resource details who will be available to stop/start the application/database services at the time of activity, if required.  
+
+=====================================================================================================
+
+For follow up for dates which are postponed due to production freeze
+
+Hi All,
+
+As patching activity was rescheduled due to the production freeze period, kindly let us know suitable date to perform the patching activity in January.
+
+Looking forward to your confirmation.
+
+========================================================================================================
+
+For follow up for resource details email (reply all)
+
+Hi @Voddepalli, Gopinath\ @D, NANDHINI/Team,
+
+Kindly  confirm the resource details for monitoring and validating that the application and DB services are down during the activity.
+
+============================================================================================================
+
+for Cancelling the activity if approval not received after 3 followup   == reply all
+
+Hello All,
+ 
+We have not yet received approval for the activity mentioned below, so we will be cancelling it for now. Please let us know the updated schedule for this activity.
+
+=============================================================================================================
+
+Activity on 18th Dec
+CHG0388663===send follow up mail  10.154.52.78, 10.154.52.50 exclude it from patching for this week
+CHG0185278===send follow up mail
+
+
+=========================================SLACK=============================================
+to put the server in maintenance mode
+run this commands on slack tool ===>!run mon/add_mx_nhr -d 2(number of server) BH2VMSMTP04
+BH2VMDAT01
+BH2VMVIE02
+BH2VMCES01
+BH2VMRTL01
+BH2VMCON01
+BH2VMOFC01
+BH2VMHOM10
+BH2VMHOM11
+BH2VMG2D02 (followed by server name)
+
+============================================================================================
+if we are not able to access the slack tool
+then drop a mail to tool team====== say them to make bot up at most priority
+
+CHG0385961
+============================================================================================
+patching list
+
+filter === server name and bulleting id
+
+add filter===choose(patch status)=== criteria==equal to == value (missing)
+
+if barts patching list ==== bulleting id == ms25-1month behind from the current month
+except bart patching list ==== belleting id ==ms25-current month
+
+jndella jumpbox server ===== login (if normal fail jb fail)
+
+=============================================================================================
+
+to see the daily task === go vulnerability= general== common==common==see the current date task excel sheet
+
+===================================================================
+
+to raise incident for disk space issue ===== create a fresh new email
+====================================================================
+
+
+
+creating changes:
+=====================================================================
+Long dec: Implementation Task steps:
+
+1. Take the backup of the server from Cloud console with a retention of 30 Days.
+
+2. In the case of backup failure, snapshot of the OS disk of the VM will be created.
+
+3. Install all the available packages/updates for Windows Servers using Endpoint Central patching tool. And manually by connecting to the servers via RDP/SSH for Linux servers.
+
+4. Put the Servers in Maintenance mode to prevent false restart alerts.
+
+5. Reboot the Server post receiving confirmation from the application/database team, if required.
+
+6. Perform the necessary OS related post checks and send out the completion template email.
+ 
+ 
+Long desc: Review Task Steps:
+ 
+1. Validate if all the servers are up and running.
+
+2. Validate if all the servers have the provided patches installed.
+
+3. Validate if incident is created in case of any reported issues.
+
+ 
+2025 06:00 PM CST
+ 
+2025 10:00 PM CST
+ 
+short desc: OS Patching for Non-Production/Production Servers – Implementation Task
+ 
+short desc: OS Patching for Non-Production/Production Servers – Review Task
+
+===========================================================================================================
+Implementation and completion mail    === reply all
+
+IMplementation mail:
+
+Hello Team,
+
+This is to notify you that we are about to Commence Patching activity as per the Approved Scheduled Maintenance window.
+ 
+Request you to stop the Apps/DB and confirm us on the status to proceed further.
+
+Completion mail:
+
+Hello Team,
+
+This is to inform you that we have completed the Scheduled maintenance activity on below mentioned servers. The servers are up and OS validations has been completed.
+
+Kindly perform necessary post-patching actions from your end and perform sanity checks.
+
+
+
+=============================================================================================================
+
+Precheck mail body contain:
+
+PFA, precheck report for the subjected activity.
+
+Total server : 10
+Disk space issue: None
+Issue Encountered: None
+
+=============================================================================================================
+
+Extending the downtime for patching mail communication
+
+Hi Team,
+
+We have completed patching on below servers, please bring up the server and perform sanity check if you are facing any issue let us know.
+
+QAS01
+fsibobjq
+devfd1
+sbx02
+Farouknat-New
+
+Below 2 server are patching in progress, so downtime will be extended for 1hr.
+FSIIQQ01
+FSIIQD01
+
+Once the patching is done, we’ll update.
+
+====================================================================================================
+
+
+if disk space is not resolved at the time of patching activity
+
+Hi team,
+We have patching activity scheduled at 10:30 am today on the following server:
+Server Detail's:
+Computer Name       Computer IP           Operating System                                                                  LogicalDisk Name          Disk Free Space (GB)
+SQL02-AW                      10.150.0.207           Windows Server 2016 Datacenter Edition (x64)                      C                                         8
+
+Kindly resolve the issue at the earliest as we can still observe low space issue not sufficient for patching.
+
+
+  

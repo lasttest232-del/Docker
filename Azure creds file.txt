@@ -1,0 +1,132 @@
+Hostname	OS Hostname	IP
+noe-w-p-vbr01	noe-w-p-vbr01	10.132.0.201
+
+nortura access creds:
+userid: ARUNI
+email:arun.nishad@nortura.no
+pwd: x1+`Rt7OA[40
+
+============
+a-arun.nishad@365nor.onmicrosoft.com
+Mabu575669
+ 
+This is your new Azure account in Nortura.
+
+=========================================
+
+Capri access creds:
+username:ANishad
+email:ArunRajkumar.Nishad@MichaelKors.com
+pwd: AHCmr3zAtwKEOQ7
+
+Network rail access creds:
+userid:vrnishad
+email:vrnishad@networkrail.co.uk
+pwd:TrashGowent@78!
+
+NEC access creds:
+email:nishad.arun-rajkumar_capgemini.com#EXT#@neweracapx.onmicrosoft.com
+pwd:
+
+MWCC access creds:
+email:nishad.arun-rajkumar_capgemini.com#EXT#@mwcccapx.onmicrosoft.com
+pwd:
+
+
+Medegen access creds:
+email:nishad.arun-rajkumar@medegenapx.onmicrosoft.com
+pwd:Capgemini@2025
+
+Matalan access creds:
+pwd:U7T1[93n
+email:Nishad_A@Matalan.co.uk
+
+matalan login method website link
+https://remoteaccess-matalanit.msappproxy.net/RDWeb/webclient/index.html
+
+Matalan Jumpbox
+ip address: 10.46.0.196\10.46.0.230\10.48.0.196
+username:ccpadmin
+pwd:CCloudP$m@t@!007
+
+
+specific server login  inside matalan jumpbox
+username: ccpadmin
+pwd:CCloudP$m@t@!007
+
+
+
+Alfa college creds:
+email:cgnarun@alfa-college.nl
+pwd: Piepol1985%%
+
+GPLNG creds:
+username:c_nrajkumar
+pwd:
+
+
+Barts Health access creds:
+email:narunraj@ccp.capgemini.com
+pwd:bJ4lQJ+pjMa4Bg
+
+
+======================
+Barts Jump Box server creds:
+barts jb : 172.31.162.37
+ 
+username:live\svc-ccpadmin
+pwd: Kr8Pt0@dm!n@4572&
+ 
+
+
+Burberry access creds:
+
+AD login Details (domain creds):
+username: ArunNishad@sap.burberry.cloud
+pwd:taw=EglcrUv5d@c
+
+Suse Login Details:
+username:ArunNishad01
+pwd:Arun@12345
+
+================================
+DC password:
+userid: narunraj
+pwd: Capgemini@2025
+
+
+
+===========Action ved creds===============
+Action :
+ #HYu3H2GQr@MDu - ccpadmin
+ARyAQxPM7!sgQ_ - ccproot
+ 
+ccppatching - fZ9vZN^nsLt6Vp
+ 
+action.local\ssrvCCPPatching
+y.=ZbF28eRJQ+j/N
+
+
+
+
+===========IKEA pratusha/Diptej===================
+prpra27
+dE6wIS+edJe6Kv
+dinai6
+Oriz@ba#123
+
+
+
+==============Dallas jumpbox=========
+100.72.136.40
+
+
+
+
+=======================================Mail approval request to whom we need to send====================
+Farouk ====
+@steven rozycki
+
+
+
+ON DC for CCP prod windows set and set 2 === name  is complete
