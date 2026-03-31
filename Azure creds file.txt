@@ -61,8 +61,8 @@ email:cgnarun@alfa-college.nl
 pwd: Piepol1985%%
 
 GPLNG creds:
-username:c_nrajkumar
-pwd:
+username:c_anishad@goldenpasslng.com
+pwd: Capgemini@2025!@2025
 
 
 Barts Health access creds:
