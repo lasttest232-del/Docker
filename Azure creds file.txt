@@ -64,6 +64,10 @@ GPLNG creds:
 username:c_anishad@goldenpasslng.com
 pwd: Capgemini@2025!@2025
 
+A creds:
+username : a_anishad@goldenpasslng.com
+pwd:!tfJtr9OUrGi3DKdOJfTAm(
+
 
 Barts Health access creds:
 email:narunraj@ccp.capgemini.com
