@@ -76,7 +76,7 @@ pwd:bJ4lQJ+pjMa4Bg
 
 ======================
 Barts Jump Box server creds:
-barts jb : 172.31.162.37
+barts jb : 172.31.162.37/102/103/104
  
 username:live\svc-ccpadmin
 pwd: Kr8Pt0@dm!n@4572&
