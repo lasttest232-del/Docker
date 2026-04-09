@@ -8,7 +8,7 @@ aws username==NARUNRAJ@ccp.capgemini.com or ccp\NARUNRAJ
 
 domain===CCP/NARUNRAJ
 
-ccp tool(CCP/NARUNRAJ) ==> bJ4lQJ+pjMa4Bg
+ccp tool(CCP/NARUNRAJ) ==> QaP=9W8eEKLmMa 
 
 
 ====================================
