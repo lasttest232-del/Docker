@@ -120,7 +120,7 @@ dinai6
 Oriz@ba#123
 
 IKEA arun network ID
-network Id: arraj : pwd: Capgemini@2025
+network Id: arraj : pwd: Capgemini@2025Capgemini
 email:arun.rajkumar.nishad@ingka.com
 
 
@@ -139,3 +139,4 @@ Farouk ====
 
 
 ON DC for CCP prod windows set and set 2 === name  is complete
+
